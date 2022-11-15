@@ -1,5 +1,5 @@
 // main, вывод данных
-public class Kek {
+public class Main {
     public static void main(String[] args) {
         System.out.print("Hello world!"); // без переноса строки
         System.out.println("Hello!"); // с переносом строки после вывода сообщения

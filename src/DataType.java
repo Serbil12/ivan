@@ -1,5 +1,5 @@
 // переменные, типы данных
-public class VarsDataType {
+public class DataType {
     public static void main(String[] args) {
         // После объявления переменной под нее выделяется определенная память,
         // размер которой зависит от используемого типа данных.
