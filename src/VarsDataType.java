@@ -1,6 +1,3 @@
-package _1;
-
-
 public class VarsDataType {
     public static void main(String[] args) {
 

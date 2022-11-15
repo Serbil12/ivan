@@ -1,0 +1,39 @@
+## Java
+target/
+.mtj.tmp/
+*.class
+*.war
+*.ear
+
+
+
+## Intellij
+out/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+
+
+## Eclipse
+bin/
+tmp/
+.settings/
+.recommenders/
+*.tmp
+*.bak
+*.swp
+*~.nib
+*.launch
+.loadpath
+.classpath
+.project
+.metadata
+
+
+
+## OS Specific
+.DS_Store
+
+

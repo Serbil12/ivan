@@ -1,6 +1,3 @@
-package _1;
-
-
 public class GlobalLocal {
     static int x = 10; // глобальная переменная
 
