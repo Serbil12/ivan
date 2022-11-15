@@ -1,3 +1,4 @@
+// main, вывод данных
 public class Prints {
     public static void main(String[] args) {
         System.out.print("Hello world!"); // без переноса строки

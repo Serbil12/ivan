@@ -1,3 +1,4 @@
+// переменные, типы данных
 public class VarsDataType {
     public static void main(String[] args) {
 

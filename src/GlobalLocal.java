@@ -1,3 +1,4 @@
+// Глобальная и локальная видимость
 public class GlobalLocal {
     static int x = 10; // глобальная переменная
 
