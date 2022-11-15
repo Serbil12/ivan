@@ -15,5 +15,19 @@ public class Operations {
         // выведет:
         // x + y = 30
         System.out.println("x + y = " + (x + y));
+
+
+        // > - строго больше
+        // < - строго меньше
+        // >= - строго больше
+        // <= - строго меньше
+        // == - равенство
+
+        int k = 10;
+        int d = 20;
+
+        if (k == d) {
+            System.out.println("*");
+        }
     }
 }
