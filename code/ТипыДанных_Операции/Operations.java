@@ -1,3 +1,9 @@
+package ТипыДанных_Операции;
+
+
+/**
+ * Основные арифмитические операции
+ */
 public class Operations {
     public static void main(String[] args) {
         int x = 10, y = 20;
@@ -22,6 +28,7 @@ public class Operations {
         // >= - строго больше
         // <= - строго меньше
         // == - равенство
+        // != - не равно
 
         int k = 10;
         int d = 20;
