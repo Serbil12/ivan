@@ -15,14 +15,38 @@ public class DataInput {
         Scanner scanner = new Scanner(System.in);
 
         // Вводим два целых числа
+        System.out.print("Введите x: ");
         int x = scanner.nextInt();
+        System.out.print("Введите y: ");
         int y = scanner.nextInt();
 
         // Выводим на экран их сумму
         System.out.println("x + y = " + (x + y));
-
-        String str = scanner.nextLine();
-
-        System.out.println("Вы ввели следующую строку: " + str);
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
