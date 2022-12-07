@@ -1,12 +1,14 @@
 package ВыходПрограммыСтроки;
 
 
-import java.util.Scanner;
 
 
 
-
-
+/**
+ * Экранирование символов \
+ * Спец символы
+ * Полный список символов и их значения можешь найти в интернете
+ */
 public class Strings {
     public static void main(String[] args) {
         System.out.println("Привет\n");

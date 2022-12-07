@@ -7,6 +7,9 @@ import java.util.Scanner;
 
 
 
+/**
+ * Тернарная операция
+ */
 public class TernarnayaOperation {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

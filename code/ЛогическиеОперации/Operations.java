@@ -7,6 +7,10 @@ import java.util.Scanner;
 
 
 
+/**
+ * Просто код, в котором программа делит 1/x, где x - введенное пользователем число
+ * Если x = 0, то выдает ошибку и программа заканчивается
+ */
 public class Operations {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

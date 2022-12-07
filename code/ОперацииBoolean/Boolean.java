@@ -1,6 +1,9 @@
 package ОперацииBoolean;
 
 
+/**
+ * Тип boolean
+ */
 public class Boolean {
     public static void main(String[] args) {
         int x = 0;

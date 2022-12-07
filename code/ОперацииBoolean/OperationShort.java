@@ -10,6 +10,9 @@ import java.util.Scanner;
 
 
 
+/**
+ * Короткая форма записи операций
+ */
 public class OperationShort {
     public static void main(String[] args) {
         int x = 10;
